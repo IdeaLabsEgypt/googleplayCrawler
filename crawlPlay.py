@@ -82,7 +82,7 @@ def saveState():
     reportProgress()
 
 
-current_count = 0
+current_count = count_offset
 
 
 def addone():
@@ -134,7 +134,10 @@ def getAppDetails(app_url):
 
     #trying to add to similar apps
     # card-content id-track-click id-track-impression
-
+    #similar_apps_div = soup.find('a', {'class': 'card-click-target'})
+    #print ("SIMILAR APPS :: %" % similar_apps_div.find('href').get_text().strip())
+    #print (similar_apps_div.find()
+	
     rating_value_meta = soup.find('meta', {'itemprop': 'ratingValue'})
     app_details['rating'] = rating_value_meta.get('content').strip()
 
@@ -169,8 +172,9 @@ def getAppDetails(app_url):
     badge_span = soup.find('span', {'class': 'badge-title'})
     if badge_span: app_details['badge'] = badge_span.get_text().strip()
 
-    for more_apps in soup.find_all('div', {'data-short-classes': 'card apps square-cover tiny no-rationale'}):
+    for more_apps in soup.find_all('div', {'data-short-classes': 'card no-rationale square-cover apps tiny'}):
         more_app_url = more_apps.find('a', {'class': 'card-click-target'}).get('href')
+        #print ("ADDED URL ::::>>> %s"%more_app_url)
         if more_app_url not in apps_discovered and more_app_url not in apps_pending: apps_pending.append(more_app_url)
 
     return app_details
