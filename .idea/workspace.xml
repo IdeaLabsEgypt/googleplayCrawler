@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1c8949c-19e2-44c9-ab17-c61ad39d43cb" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_app_wallpaper" afterPath="" />
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_brain" afterPath="" />
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_cards" afterPath="" />
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_game_wallpaper" afterPath="" />
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_game_widgets" afterPath="" />
+      <change type="DELETED" beforePath="C:\Python34\MPCrawler\apps_sports_games" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/state_dump" afterPath="$PROJECT_DIR$/state_dump" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_action" afterPath="$PROJECT_DIR$/apps_action" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_adventure" afterPath="$PROJECT_DIR$/apps_adventure" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_arcade" afterPath="$PROJECT_DIR$/apps_arcade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_board" afterPath="$PROJECT_DIR$/apps_board" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_books &amp; reference" afterPath="$PROJECT_DIR$/apps_books &amp; reference" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_business" afterPath="$PROJECT_DIR$/apps_business" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_card" afterPath="$PROJECT_DIR$/apps_card" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_casino" afterPath="$PROJECT_DIR$/apps_casino" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_casual" afterPath="$PROJECT_DIR$/apps_casual" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_comics" afterPath="$PROJECT_DIR$/apps_comics" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_communication" afterPath="$PROJECT_DIR$/apps_communication" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_education" afterPath="$PROJECT_DIR$/apps_education" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_educational" afterPath="$PROJECT_DIR$/apps_educational" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_entertainment" afterPath="$PROJECT_DIR$/apps_entertainment" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_family" afterPath="$PROJECT_DIR$/apps_family" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_finance" afterPath="$PROJECT_DIR$/apps_finance" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_health &amp; fitness" afterPath="$PROJECT_DIR$/apps_health &amp; fitness" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_libraries &amp; demo" afterPath="$PROJECT_DIR$/apps_libraries &amp; demo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_lifestyle" afterPath="$PROJECT_DIR$/apps_lifestyle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_media &amp; video" afterPath="$PROJECT_DIR$/apps_media &amp; video" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_medical" afterPath="$PROJECT_DIR$/apps_medical" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_music &amp; audio" afterPath="$PROJECT_DIR$/apps_music &amp; audio" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_music" afterPath="$PROJECT_DIR$/apps_music" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_news &amp; magazines" afterPath="$PROJECT_DIR$/apps_news &amp; magazines" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_personalization" afterPath="$PROJECT_DIR$/apps_personalization" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_photography" afterPath="$PROJECT_DIR$/apps_photography" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_productivity" afterPath="$PROJECT_DIR$/apps_productivity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_puzzle" afterPath="$PROJECT_DIR$/apps_puzzle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_racing" afterPath="$PROJECT_DIR$/apps_racing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_role playing" afterPath="$PROJECT_DIR$/apps_role playing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_shopping" afterPath="$PROJECT_DIR$/apps_shopping" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_simulation" afterPath="$PROJECT_DIR$/apps_simulation" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_social" afterPath="$PROJECT_DIR$/apps_social" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_sports" afterPath="$PROJECT_DIR$/apps_sports" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_strategy" afterPath="$PROJECT_DIR$/apps_strategy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_tools" afterPath="$PROJECT_DIR$/apps_tools" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_transportation" afterPath="$PROJECT_DIR$/apps_transportation" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_travel &amp; local" afterPath="$PROJECT_DIR$/apps_travel &amp; local" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_trivia" afterPath="$PROJECT_DIR$/apps_trivia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_weather" afterPath="$PROJECT_DIR$/apps_weather" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps_word" afterPath="$PROJECT_DIR$/apps_word" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlPlay.py" afterPath="$PROJECT_DIR$/crawlPlay.py" />
+    </list>
+    <ignored path="MPCrawler.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MPCrawler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="crawlPlay.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawlPlay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65695065" vertical-offset="4586" max-vertical-offset="5032">
+              <caret line="287" column="17" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
+              <folding>
+                <element signature="e#103#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crawlPlay.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MPCrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MPCrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MPCrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="terminal" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\Python27\python.exe" working-directory="G:/Work/Python">
+        <option name="mySdkHome" value="C:\Python27\python.exe" />
+        <option name="myWorkingDirectory" value="G:/Work/Python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MPCrawler" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c8949c-19e2-44c9-ab17-c61ad39d43cb" name="Default" comment="" />
+      <created>1411419549803</created>
+      <updated>1411419549803</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added couple of new categories">
+      <created>1411425633264</created>
+      <updated>1411425633264</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed expansion of apps using &quot;more from dev&quot; and &quot;similar apps&quot;">
+      <created>1411427126654</created>
+      <updated>1411427126654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294271" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits Chat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="added couple of new categories" />
+    <MESSAGE value="fixed expansion of apps using &quot;more from dev&quot; and &quot;similar apps&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed expansion of apps using &quot;more from dev&quot; and &quot;similar apps&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawlPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65695065" vertical-offset="4586" max-vertical-offset="5032">
+          <caret line="287" column="17" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
+          <folding>
+            <element signature="e#103#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

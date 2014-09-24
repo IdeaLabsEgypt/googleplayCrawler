@@ -186,7 +186,7 @@ def getTopAppsData(url, start, num, app_type):
               'numChildren': '0',
               'ipf': '1',
               'xhr': '1'}
-    print("::::::: THIS IS THE CATEGORY URL :::::: %s" % url)
+    #print("::::::: THIS IS THE CATEGORY URL :::::: %s" % url)
     soup = getPageAsSoup(url, values)
     if not soup: return [], []
 
@@ -195,7 +195,7 @@ def getTopAppsData(url, start, num, app_type):
     for div in soup.findAll('div', {'class': 'details'}):
         title = div.find('a', {'class': 'title'})
         try:
-            print ("TITLE %s"% title.get('href'))
+            #print ("TITLE %s"% title.get('href'))
             app_details = getAppDetails(title.get('href'))
 
         except AttributeError:
